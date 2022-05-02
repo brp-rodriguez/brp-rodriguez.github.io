@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>hugo on BRP</title>
+    <link>https://brp-rodriguez.github.io/en/tags/hugo/</link>
+    <description>Recent content in hugo on BRP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</managingEditor>
+    <webMaster>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 25 Feb 2020 06:40:51 +0900</lastBuildDate>
+    
+        <atom:link href="https://brp-rodriguez.github.io/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Shortcodes V2</title>
+        <link>https://brp-rodriguez.github.io/en/posts/shortcodesv2/</link>
+        <pubDate>Tue, 25 Feb 2020 06:40:51 +0900</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        <atom:modified>Tue, 25 Feb 2020 06:40:51 +0900</atom:modified>
+        <guid>https://brp-rodriguez.github.io/en/posts/shortcodesv2/</guid>
+        <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode Code tabs Make it easy to switch between different code
+javajavascript1  System.out.println(&amp;#39;Hello World!&amp;#39;);   1  console.log(&amp;#39;Hello World!&amp;#39;);   &#39;use strict&#39;;var containerId = JSON.parse(&#34;\&#34;e3ccd48fd780d100\&#34;&#34;);var containerElem = document.getElementById(containerId);var codetabLinks = null;var codetabContents = null;var ids = [];if (containerElem) {codetabLinks = containerElem.</description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        <media:content url="https://brp-rodriguez.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>shortcode</category>
+            
+          
+            
+              <category>panda</category>
+            
+          
+            
+              <category>amaji</category>
+            
+          
+            
+              <category>bamaji</category>
+            
+          
+            
+              <category>css</category>
+            
+          
+            
+              <category>amoji</category>
+            
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Syntax highlighting</title>
+        <link>https://brp-rodriguez.github.io/en/posts/syntax-highlight/</link>
+        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
+        <guid>https://brp-rodriguez.github.io/en/posts/syntax-highlight/</guid>
+        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
+        
+        <dc:creator>Jeus</dc:creator>
+        <media:content url="https://brp-rodriguez.github.io/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
