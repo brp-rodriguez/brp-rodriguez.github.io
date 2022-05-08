@@ -14,11 +14,29 @@
     <managingEditor>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</managingEditor>
     <webMaster>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</webMaster>
     <copyright>©2022, todos los derechos reservados</copyright>
-    <lastBuildDate>Sat, 30 Apr 2022 16:12:35 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 May 2022 20:48:46 -0500</lastBuildDate>
     
         <atom:link href="https://brp-rodriguez.github.io/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Programación</title>
+        <link>https://brp-rodriguez.github.io/es/categories/programaci%C3%B3n/</link>
+        <pubDate>Sat, 07 May 2022 20:48:46 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        
+        <guid>https://brp-rodriguez.github.io/es/categories/programaci%C3%B3n/</guid>
+        <description></description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>diagram</title>
