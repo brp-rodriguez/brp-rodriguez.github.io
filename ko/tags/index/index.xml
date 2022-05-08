@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>index on Brayan Rodriguez</title>
+    <link>https://brp-rodriguez.github.io/ko/tags/index/</link>
+    <description>Recent content in index on Brayan Rodriguez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</managingEditor>
+    <webMaster>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</webMaster>
+    <copyright>©2022, todos los derechos reservados</copyright>
+    
+        <atom:link href="https://brp-rodriguez.github.io/ko/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Posts</title>
+        <link>https://brp-rodriguez.github.io/ko/es/posts/</link>
+        <pubDate>Sat, 07 May 2022 20:48:46 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        
+        <guid>https://brp-rodriguez.github.io/ko/es/posts/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Posts</title>
+        <link>https://brp-rodriguez.github.io/ko/en/posts/</link>
+        <pubDate>Tue, 25 Feb 2020 06:40:51 +0900</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        
+        <guid>https://brp-rodriguez.github.io/ko/en/posts/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Posts</title>
+        <link>https://brp-rodriguez.github.io/ko/ko/posts/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        
+        <guid>https://brp-rodriguez.github.io/ko/ko/posts/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
