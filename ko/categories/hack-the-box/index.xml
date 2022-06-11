@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Hack-the-box on Brayan Rodriguez</title>
+    <link>https://brp-rodriguez.github.io/ko/categories/hack-the-box/</link>
+    <description>Recent content in Hack-the-box on Brayan Rodriguez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</managingEditor>
+    <webMaster>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</webMaster>
+    <copyright>©2022, todos los derechos reservados</copyright>
+    <lastBuildDate>Sun, 15 May 2022 22:03:58 -0500</lastBuildDate>
+    
+        <atom:link href="https://brp-rodriguez.github.io/ko/categories/hack-the-box/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Crocodile</title>
+        <link>https://brp-rodriguez.github.io/ko/es/posts/htb/crocodile/</link>
+        <pubDate>Sun, 15 May 2022 22:03:58 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        <atom:modified>Sun, 15 May 2022 22:03:58 -0500</atom:modified>
+        <guid>https://brp-rodriguez.github.io/ko/es/posts/htb/crocodile/</guid>
+        <description>Se realiza ub escaneo al activo y se detecta los puertos TCP abiertos 21 y 80. Lugo se procede a realizar un escaneo más personalizado que permita detectar las versiones del los servicios. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35</description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        <media:content url="https://brp-rodriguez.github.io/images/HTB/03_Crocodile/crocodile.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Exposición de datos</category>
+            
+          
+            
+              <category>Fundamentos</category>
+            
+          
+        
+        
+          
+            
+              <category>Ciberseguridad</category>
+            
+          
+            
+              <category>Hack-the-box</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Sequel</title>
+        <link>https://brp-rodriguez.github.io/ko/es/posts/htb/sequel/</link>
+        <pubDate>Sat, 14 May 2022 23:01:02 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        <atom:modified>Sat, 14 May 2022 23:01:02 -0500</atom:modified>
+        <guid>https://brp-rodriguez.github.io/ko/es/posts/htb/sequel/</guid>
+        <description>TASK 1 What does the acronym SQL stand for? ANS: structured query language TASK 2 During our scan, which port running mysql do we find? Se realiza una escaneo con nmap y se detecta el puerto 3306 tcp abierto 1 2 3 4 5 6 7 Nmap scan report for 10.129.30.80 Host is up (0.78s latency). Not shown: 999 closed tcp ports (conn-refused) PORT STATE SERVICE 3306/tcp open mysql Nmap</description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        <media:content url="https://brp-rodriguez.github.io/images/HTB/02_Sequel/Sequel.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Weak-password</category>
+            
+          
+            
+              <category>Fundamentos</category>
+            
+          
+        
+        
+          
+            
+              <category>Ciberseguridad</category>
+            
+          
+            
+              <category>Hack-the-box</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Appointment</title>
+        <link>https://brp-rodriguez.github.io/ko/es/posts/htb/appointment/</link>
+        <pubDate>Sat, 14 May 2022 14:48:02 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        <atom:modified>Sat, 14 May 2022 14:48:02 -0500</atom:modified>
+        <guid>https://brp-rodriguez.github.io/ko/es/posts/htb/appointment/</guid>
+        <description>TASK 1: What does the acronym SQL stand for? ANS: Structured Query language TASK 2: What is one of the most common type of SQL vulnerabilities? ANS: SQL injection TASK 3: What does PII stand for? ANS: personally identifiable information TASK 4: What does the OWASP Top 10 list name the classification for this vulnerability? ANS: A03:2021-Injection TASK 5: What service and version are running on port 80 of the</description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        <media:content url="https://brp-rodriguez.github.io/images/HTB/01_Appointment/Appointment.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>SQL-Injection</category>
+            
+          
+            
+              <category>Fundamentos</category>
+            
+          
+        
+        
+          
+            
+              <category>Ciberseguridad</category>
+            
+          
+            
+              <category>Hack-the-box</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

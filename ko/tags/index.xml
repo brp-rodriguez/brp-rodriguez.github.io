@@ -14,16 +14,106 @@
     <managingEditor>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</managingEditor>
     <webMaster>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</webMaster>
     <copyright>©2022, todos los derechos reservados</copyright>
-    <lastBuildDate>Sat, 07 May 2022 20:48:46 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 May 2022 22:03:58 -0500</lastBuildDate>
     
         <atom:link href="https://brp-rodriguez.github.io/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>Exposición de datos</title>
+        <link>https://brp-rodriguez.github.io/ko/tags/exposici%C3%B3n-de-datos/</link>
+        <pubDate>Sun, 15 May 2022 22:03:58 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        
+        <guid>https://brp-rodriguez.github.io/ko/tags/exposici%C3%B3n-de-datos/</guid>
+        <description></description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Fundamentos</title>
+        <link>https://brp-rodriguez.github.io/ko/tags/fundamentos/</link>
+        <pubDate>Sun, 15 May 2022 22:03:58 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        
+        <guid>https://brp-rodriguez.github.io/ko/tags/fundamentos/</guid>
+        <description></description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Weak-password</title>
+        <link>https://brp-rodriguez.github.io/ko/tags/weak-password/</link>
+        <pubDate>Sat, 14 May 2022 23:01:02 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        
+        <guid>https://brp-rodriguez.github.io/ko/tags/weak-password/</guid>
+        <description></description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>SQL-Injection</title>
+        <link>https://brp-rodriguez.github.io/ko/tags/sql-injection/</link>
+        <pubDate>Sat, 14 May 2022 14:48:02 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        
+        <guid>https://brp-rodriguez.github.io/ko/tags/sql-injection/</guid>
+        <description></description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Modules-Python</title>
+        <link>https://brp-rodriguez.github.io/ko/tags/modules-python/</link>
+        <pubDate>Thu, 12 May 2022 10:18:44 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        
+        <guid>https://brp-rodriguez.github.io/ko/tags/modules-python/</guid>
+        <description></description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Python</title>
         <link>https://brp-rodriguez.github.io/ko/tags/python/</link>
-        <pubDate>Sat, 07 May 2022 20:48:46 -0500</pubDate>
+        <pubDate>Thu, 12 May 2022 10:18:44 -0500</pubDate>
         <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
         
         <guid>https://brp-rodriguez.github.io/ko/tags/python/</guid>
@@ -41,10 +131,28 @@
       <item>
         <title>Sockets</title>
         <link>https://brp-rodriguez.github.io/ko/tags/sockets/</link>
-        <pubDate>Sat, 07 May 2022 20:48:46 -0500</pubDate>
+        <pubDate>Thu, 12 May 2022 10:18:44 -0500</pubDate>
         <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
         
         <guid>https://brp-rodriguez.github.io/ko/tags/sockets/</guid>
+        <description></description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Cliente-Servidor</title>
+        <link>https://brp-rodriguez.github.io/ko/tags/cliente-servidor/</link>
+        <pubDate>Tue, 10 May 2022 23:04:40 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        
+        <guid>https://brp-rodriguez.github.io/ko/tags/cliente-servidor/</guid>
         <description></description>
         
         <dc:creator>Brayan Rodriguez</dc:creator>

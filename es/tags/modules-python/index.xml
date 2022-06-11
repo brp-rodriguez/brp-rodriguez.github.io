@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Modules-Python on BRP</title>
+    <link>https://brp-rodriguez.github.io/es/tags/modules-python/</link>
+    <description>Recent content in Modules-Python on BRP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</managingEditor>
+    <webMaster>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</webMaster>
+    <copyright>©2022, todos los derechos reservados</copyright>
+    <lastBuildDate>Thu, 12 May 2022 10:18:44 -0500</lastBuildDate>
+    
+        <atom:link href="https://brp-rodriguez.github.io/es/tags/modules-python/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Módulos en Python Para Realizar Peticiones al Protocolo HTTP</title>
+        <link>https://brp-rodriguez.github.io/es/posts/modulos-en-python-para-realizar-peticiones/</link>
+        <pubDate>Thu, 12 May 2022 10:18:44 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        <atom:modified>Thu, 12 May 2022 10:18:44 -0500</atom:modified>
+        <guid>https://brp-rodriguez.github.io/es/posts/modulos-en-python-para-realizar-peticiones/</guid>
+        <description>Algunos Módulos en Python para realizar peticiones
+Protocolo HTTP El protocolo HTTP es un canal de transferencia de datos de hyper-texto que no posee estado y que no almacena información. Debido a que no posee estado, se utiliza cookies para guardar información.
+El protocolo HTTP define una serie de métodos para realizar consultas, entre estos se encuentran:
+GET. Pide una representación del recurso especificado. Por seguridad no debería ser usado por aplicaciones que causen efectos ya que transmite información a través de la URI agregando parámetros a la URL.</description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        <media:content url="https://brp-rodriguez.github.io/images/03_Modulos_Python/Intro.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Sockets</category>
+            
+          
+            
+              <category>Modules-Python</category>
+            
+          
+        
+        
+          
+            
+              <category>Programación</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

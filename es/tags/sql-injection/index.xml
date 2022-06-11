@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>SQL-Injection on BRP</title>
+    <link>https://brp-rodriguez.github.io/es/tags/sql-injection/</link>
+    <description>Recent content in SQL-Injection on BRP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</managingEditor>
+    <webMaster>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</webMaster>
+    <copyright>©2022, todos los derechos reservados</copyright>
+    <lastBuildDate>Sat, 14 May 2022 14:48:02 -0500</lastBuildDate>
+    
+        <atom:link href="https://brp-rodriguez.github.io/es/tags/sql-injection/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Appointment</title>
+        <link>https://brp-rodriguez.github.io/es/posts/htb/appointment/</link>
+        <pubDate>Sat, 14 May 2022 14:48:02 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        <atom:modified>Sat, 14 May 2022 14:48:02 -0500</atom:modified>
+        <guid>https://brp-rodriguez.github.io/es/posts/htb/appointment/</guid>
+        <description>TASK 1: What does the acronym SQL stand for? ANS: Structured Query language TASK 2: What is one of the most common type of SQL vulnerabilities? ANS: SQL injection TASK 3: What does PII stand for? ANS: personally identifiable information TASK 4: What does the OWASP Top 10 list name the classification for this vulnerability? ANS: A03:2021-Injection TASK 5: What service and version are running on port 80 of the</description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        <media:content url="https://brp-rodriguez.github.io/images/HTB/01_Appointment/Appointment.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>SQL-Injection</category>
+            
+          
+            
+              <category>Fundamentos</category>
+            
+          
+        
+        
+          
+            
+              <category>Ciberseguridad</category>
+            
+          
+            
+              <category>Hack-the-box</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

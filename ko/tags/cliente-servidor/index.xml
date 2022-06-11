@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Cliente-Servidor on Brayan Rodriguez</title>
+    <link>https://brp-rodriguez.github.io/ko/tags/cliente-servidor/</link>
+    <description>Recent content in Cliente-Servidor on Brayan Rodriguez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</managingEditor>
+    <webMaster>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</webMaster>
+    <copyright>©2022, todos los derechos reservados</copyright>
+    <lastBuildDate>Tue, 10 May 2022 23:04:40 -0500</lastBuildDate>
+    
+        <atom:link href="https://brp-rodriguez.github.io/ko/tags/cliente-servidor/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Aplicaciones Clientes Servidor usando sockets en Python</title>
+        <link>https://brp-rodriguez.github.io/ko/es/posts/aplicaciones-clientes-servidor-con-python/</link>
+        <pubDate>Tue, 10 May 2022 23:04:40 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        <atom:modified>Tue, 10 May 2022 23:04:40 -0500</atom:modified>
+        <guid>https://brp-rodriguez.github.io/ko/es/posts/aplicaciones-clientes-servidor-con-python/</guid>
+        <description>Aplicaciones cliente-servidor usando sockets Algunos métodos en Python para enviar y recibir datos socket.recv(buffer_long): Este método recibe datos del socket. El argumento del método indica la cantidad máxima de datos que puede recibir. socket.recvfrom(buffer_long): Este método recibe datos y la dire</description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        <media:content url="https://brp-rodriguez.github.io/images/02_ClienteServidor/Cliente-Servidor.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Sockets</category>
+            
+          
+            
+              <category>Cliente-Servidor</category>
+            
+          
+        
+        
+          
+            
+              <category>Programación</category>
+            
+          
+            
+              <category>Aplicacion</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

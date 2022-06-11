@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://brp-rodriguez.github.io/es/</loc>
-    <lastmod>2022-05-07T20:48:46-05:00</lastmod>
+    <lastmod>2022-05-15T22:03:58-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -46,11 +46,8 @@
                 href="https://brp-rodriguez.github.io/es/"
                 />
   </url><url>
-    <loc>https://brp-rodriguez.github.io/es/posts/fundamenttos-con-sockets-python/</loc>
-    <lastmod>2022-05-07T20:48:46-05:00</lastmod>
-  </url><url>
     <loc>https://brp-rodriguez.github.io/es/categories/</loc>
-    <lastmod>2022-05-07T20:48:46-05:00</lastmod>
+    <lastmod>2022-05-15T22:03:58-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,8 +64,63 @@
                 href="https://brp-rodriguez.github.io/es/categories/"
                 />
   </url><url>
+    <loc>https://brp-rodriguez.github.io/es/categories/ciberseguridad/</loc>
+    <lastmod>2022-05-15T22:03:58-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/categories/ciberseguridad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/categories/ciberseguridad/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/posts/htb/crocodile/</loc>
+    <lastmod>2022-05-15T22:03:58-05:00</lastmod>
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/tags/exposici%C3%B3n-de-datos/</loc>
+    <lastmod>2022-05-15T22:03:58-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/exposici%C3%B3n-de-datos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/exposici%C3%B3n-de-datos/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/tags/fundamentos/</loc>
+    <lastmod>2022-05-15T22:03:58-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/fundamentos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/fundamentos/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/categories/hack-the-box/</loc>
+    <lastmod>2022-05-15T22:03:58-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/categories/hack-the-box/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/categories/hack-the-box/"
+                />
+  </url><url>
     <loc>https://brp-rodriguez.github.io/es/posts/</loc>
-    <lastmod>2022-05-07T20:48:46-05:00</lastmod>
+    <lastmod>2022-05-15T22:03:58-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -80,47 +132,8 @@
                 href="https://brp-rodriguez.github.io/es/posts/"
                 />
   </url><url>
-    <loc>https://brp-rodriguez.github.io/es/categories/programaci%C3%B3n/</loc>
-    <lastmod>2022-05-07T20:48:46-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://brp-rodriguez.github.io/ko/categories/programaci%C3%B3n/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://brp-rodriguez.github.io/es/categories/programaci%C3%B3n/"
-                />
-  </url><url>
-    <loc>https://brp-rodriguez.github.io/es/tags/python/</loc>
-    <lastmod>2022-05-07T20:48:46-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://brp-rodriguez.github.io/ko/tags/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://brp-rodriguez.github.io/es/tags/python/"
-                />
-  </url><url>
-    <loc>https://brp-rodriguez.github.io/es/tags/sockets/</loc>
-    <lastmod>2022-05-07T20:48:46-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://brp-rodriguez.github.io/ko/tags/sockets/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://brp-rodriguez.github.io/es/tags/sockets/"
-                />
-  </url><url>
     <loc>https://brp-rodriguez.github.io/es/tags/</loc>
-    <lastmod>2022-05-07T20:48:46-05:00</lastmod>
+    <lastmod>2022-05-15T22:03:58-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -136,6 +149,125 @@
                 hreflang="es"
                 href="https://brp-rodriguez.github.io/es/tags/"
                 />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/posts/htb/sequel/</loc>
+    <lastmod>2022-05-14T23:01:02-05:00</lastmod>
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/tags/weak-password/</loc>
+    <lastmod>2022-05-14T23:01:02-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/weak-password/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/weak-password/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/posts/htb/appointment/</loc>
+    <lastmod>2022-05-14T14:48:02-05:00</lastmod>
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/tags/sql-injection/</loc>
+    <lastmod>2022-05-14T14:48:02-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/sql-injection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/sql-injection/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/tags/modules-python/</loc>
+    <lastmod>2022-05-12T10:18:44-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/modules-python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/modules-python/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/posts/modulos-en-python-para-realizar-peticiones/</loc>
+    <lastmod>2022-05-12T10:18:44-05:00</lastmod>
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/categories/programaci%C3%B3n/</loc>
+    <lastmod>2022-05-12T10:18:44-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/categories/programaci%C3%B3n/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/categories/programaci%C3%B3n/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/tags/python/</loc>
+    <lastmod>2022-05-12T10:18:44-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/python/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/tags/sockets/</loc>
+    <lastmod>2022-05-12T10:18:44-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/sockets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/sockets/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/categories/aplicacion/</loc>
+    <lastmod>2022-05-10T23:04:40-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/categories/aplicacion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/categories/aplicacion/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/posts/aplicaciones-clientes-servidor-con-python/</loc>
+    <lastmod>2022-05-10T23:04:40-05:00</lastmod>
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/tags/cliente-servidor/</loc>
+    <lastmod>2022-05-10T23:04:40-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/cliente-servidor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/cliente-servidor/"
+                />
+  </url><url>
+    <loc>https://brp-rodriguez.github.io/es/posts/fundamenttos-con-sockets-python/</loc>
+    <lastmod>2022-05-07T20:48:46-05:00</lastmod>
   </url><url>
     <loc>https://brp-rodriguez.github.io/es/posts/abc/</loc>
     <lastmod>2022-04-30T16:12:35-05:00</lastmod>

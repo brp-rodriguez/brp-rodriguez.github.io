@@ -14,11 +14,94 @@
     <managingEditor>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</managingEditor>
     <webMaster>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</webMaster>
     <copyright>©2022, todos los derechos reservados</copyright>
-    <lastBuildDate>Sat, 07 May 2022 20:48:46 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 May 2022 10:18:44 -0500</lastBuildDate>
     
         <atom:link href="https://brp-rodriguez.github.io/ko/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Módulos en Python Para Realizar Peticiones al Protocolo HTTP</title>
+        <link>https://brp-rodriguez.github.io/ko/es/posts/modulos-en-python-para-realizar-peticiones/</link>
+        <pubDate>Thu, 12 May 2022 10:18:44 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        <atom:modified>Thu, 12 May 2022 10:18:44 -0500</atom:modified>
+        <guid>https://brp-rodriguez.github.io/ko/es/posts/modulos-en-python-para-realizar-peticiones/</guid>
+        <description>Algunos Módulos en Python para realizar peticiones
+Protocolo HTTP El protocolo HTTP es un canal de transferencia de datos de hyper-texto que no posee estado y que no almacena información. Debido a que no posee estado, se utiliza cookies para guardar información.
+El protocolo HTTP define una serie de métodos para realizar consultas, entre estos se encuentran:
+GET. Pide una representación del recurso especificado. Por seguridad no debería ser usado por aplicaciones que causen efectos ya que transmite información a través de la URI agregando parámetros a la URL.</description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        <media:content url="https://brp-rodriguez.github.io/images/03_Modulos_Python/Intro.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Sockets</category>
+            
+          
+            
+              <category>Modules-Python</category>
+            
+          
+        
+        
+          
+            
+              <category>Programación</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Aplicaciones Clientes Servidor usando sockets en Python</title>
+        <link>https://brp-rodriguez.github.io/ko/es/posts/aplicaciones-clientes-servidor-con-python/</link>
+        <pubDate>Tue, 10 May 2022 23:04:40 -0500</pubDate>
+        <author>b.rodriguezp[AT]pucp.pe (Brayan Rodriguez)</author>
+        <atom:modified>Tue, 10 May 2022 23:04:40 -0500</atom:modified>
+        <guid>https://brp-rodriguez.github.io/ko/es/posts/aplicaciones-clientes-servidor-con-python/</guid>
+        <description>Aplicaciones cliente-servidor usando sockets Algunos métodos en Python para enviar y recibir datos socket.recv(buffer_long): Este método recibe datos del socket. El argumento del método indica la cantidad máxima de datos que puede recibir. socket.recvfrom(buffer_long): Este método recibe datos y la dire</description>
+        
+        <dc:creator>Brayan Rodriguez</dc:creator>
+        <media:content url="https://brp-rodriguez.github.io/images/02_ClienteServidor/Cliente-Servidor.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Sockets</category>
+            
+          
+            
+              <category>Cliente-Servidor</category>
+            
+          
+        
+        
+          
+            
+              <category>Programación</category>
+            
+          
+            
+              <category>Aplicacion</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Aprendiendo Sockets con Python</title>
